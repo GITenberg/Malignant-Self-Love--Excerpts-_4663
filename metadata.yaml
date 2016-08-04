@@ -1,0 +1,32 @@
+_repo: Malignant-Self-Love--Excerpts-_4663
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vaknin, Samuel
+    aliases:
+    - Vaknin, Shmuel
+    - Vaknin, Sam
+    birthdate: 1961
+    gutenberg_agent_id: '2702'
+    url: http://www.gutenberg.org/2009/agents/2702
+    wikipedia: http://en.wikipedia.org/wiki/Sam_Vaknin
+  editor:
+    agent_name: Rangelovska, Lidija
+    gutenberg_agent_id: '24903'
+    url: http://www.gutenberg.org/2009/agents/24903
+description: '"EXCERPTS – NOT the full Book!"'
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4663'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'BF'
+- !lcsh 'Narcissism'
+- !lcc 'RC'
+- GITenberg
+title: Malignant Self Love [Excerpts]
+url: http://www.gutenberg.org/ebooks/4663
